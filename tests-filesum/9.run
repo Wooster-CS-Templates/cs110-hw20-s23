@@ -1,0 +1,1 @@
+./filesum tests-filesum/t3.txt tests-out/output.txt; cat tests-out/output.txt

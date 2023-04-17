@@ -1,0 +1,1 @@
+./filesum tests-filesum/t0.txt does-not-exist/output.txt > /dev/null

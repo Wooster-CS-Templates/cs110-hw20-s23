@@ -1,0 +1,1 @@
+./filesum one.txt two.txt three.txt > /dev/null
